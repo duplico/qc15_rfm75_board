@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name boosterpack20)(type Legacy)(uri C:/Users/george/project/qc15/qc15_rfm75_board/boosterpack20.mod)(options "")(descr ""))
+  (lib (name rfm75)(type KiCad)(uri C:/Users/george/project/qc15/qc15_rfm75_board/rfm75.pretty)(options "")(descr ""))
+)
